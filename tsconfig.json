@@ -30,7 +30,7 @@
     "rsn/**/*.ts",
     "*.ts",
     "*.js"
-  ],
+, "cypress/e2e/sign-up.js"  ],
   "exclude": [
     "node_modules",
     "frontend",
